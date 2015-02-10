@@ -37,7 +37,7 @@ public class MonteCarlo
     public double nextRainDrop_x()
     {        
         x = l + ((2 * radius) * rndm.nextDouble());
-        System.out.println(x);
+        //System.out.println(x);
         return x;
     }
     /**
@@ -48,7 +48,7 @@ public class MonteCarlo
     public double nextRainDrop_y()
     {
         y = l1 + (2 * radius) *rndm.nextDouble();
-        System.out.println(y);
+        //System.out.println(y);
         return y;
     }
     /**
