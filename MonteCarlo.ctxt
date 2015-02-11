@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=h\ k\ r
+comment0.target=MonteCarlo(double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MonteCarlo\r\n\ @param\ height,\ width,\ and\ radius\r\n
+comment1.params=
+comment1.target=double\ nextRainDrop_x()
+comment1.text=\r\n\ Random\ rain\ drop\ x\ coordinate;\r\n\ \r\n\ @return\ \ \ \ \ return\ a\ random\ x\r\n
+comment2.params=
+comment2.target=double\ nextRainDrop_y()
+comment2.text=\r\n\ Random\ rain\ drop\ y\ coordinate;\r\n\ \r\n\ @return\ return\ a\ random\ y\r\n
+comment3.params=x\ y
+comment3.target=boolean\ insideCircle(double,\ double)
+comment3.text=\r\n\ Check\ if\ rain\ drop\ is\ inside\ the\ circle\r\n\ \r\n\ @return\ a\ true\ or\ flase\r\n
+numComments=4
